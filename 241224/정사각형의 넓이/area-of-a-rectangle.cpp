@@ -9,7 +9,7 @@ int main() {
     if (n > 4)
     cout << n * n << endl;
     else
-    cout << "tiny" << endl;
+    cout << n * n << endl << "tiny" << endl;
 
     return 0;
 }
